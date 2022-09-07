@@ -1,0 +1,26 @@
+// bootstrap theme changes
+
+// import bootstrap
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import './nav/navbar.scss';    
+
+@import './footer/footer.scss'; 
+
+@import './hero/hero.scss';
+
+@import './feature/feature.scss';
+
+@import './carousel/carousel.scss';
+
+@import './specification/specification.scss';
+
+@import './cta/cta.scss';
+
+// custom codes
+
+.extra-margin{
+    margin-top:80px;
+}
